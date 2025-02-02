@@ -80,8 +80,8 @@ Repository Information
 
 Original version: tough-cookie 2.5.0
 Patched version tag: v2.5.0-patched
-Repository URL: [[Your forked repository URL](https://github.com/Gal-lankri/tough-cookie-security-fix.git)]
-Tag URL: [[Your repository tag URL](https://github.com/Gal-lankri/tough-cookie-security-fix/releases/tag/v2.5.0-patched)]
+Repository URL: https://github.com/Gal-lankri/tough-cookie-security-fix.git
+Tag URL: https://github.com/Gal-lankri/tough-cookie-security-fix/releases/tag/v2.5.0-patched
 
 Node.js Compatibility
 This patch has been tested and verified working on Node.js 20 LTS.
